@@ -1,0 +1,13 @@
+section {
+    width: 100%; /*Largura*/
+    max-width: 1200px; /*Largura Máxima*/
+    margin: 0 auto;
+}
+
+.logo img {
+    max-width: 100px;
+}
+
+.menu ul li {
+    display: inline;
+}
